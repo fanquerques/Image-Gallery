@@ -1,0 +1,4 @@
+image1.jpg,5
+image2.jpg,3
+image3.jpg,4
+image4.jpg,4
